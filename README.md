@@ -1,2 +1,2 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=maximemoreillon&hide_rank=true&theme=transparent&line_height=40&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximemoreillon&hide=php,processing&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximemoreillon&hide=php,processing,c&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
